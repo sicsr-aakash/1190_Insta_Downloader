@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Instructions"
+        android:id="@+id/Instructview"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="367dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="left"
+        android:text="1>To use this app you need to have instragram preinstalled to extract the share URL .\n\n2>On instagram click on the 3 dots below the image and copy share URL \n \n 3> Paste Share URL on the text field and click on Check to verify Image \n \n4> Click on Download after verifying. \n \n your Image will be saved on your SD card in the InstaDownloader Directory "
+        android:id="@+id/help_text"
+        android:layout_weight="0.37" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Credits"
+        android:id="@+id/credits"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>

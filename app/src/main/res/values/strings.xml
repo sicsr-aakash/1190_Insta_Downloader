@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">instadownloader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruct_text">Your should have instagram preinstalled to use this app</string>
+    <string name="instopen">Open instagram</string>
+    <string name="instruct">To download image, open instaagram, select share </string>
+    <string name="paste">paste</string>
+    <string name="check">check</string>
+    <string name="download">download </string>
+
+    <color name="instablue">#517fa4</color>
+
+    <string name="title_activity_helpscreen">helpscreen</string>
+    <string name="title_activity_creditsscreen">creditsscreen</string>
+
+</resources>
