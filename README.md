@@ -7,6 +7,7 @@ For using this app it is suggested that you have Instagram Preinstalled as it is
 
 
 INSTRUCTIONS:
+================
 
 
 1>Open Instagram click on the 3 dots below the image you want to download and click on SHARE URL
